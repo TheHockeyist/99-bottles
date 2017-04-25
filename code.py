@@ -21,5 +21,4 @@ print bottles "bottles of "beverage" on the wall!"
 print bottles "bottles of "beverage" on the wall,"
 print bottles "bottles of "beverage" on the wall."
 print "Go to the store and buy some more,"
-set bottles = 99
-print bottles "bottles of "beverage" on the wall!"
+print "99 "bottles" of "beverage" on the wall!"
