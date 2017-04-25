@@ -1,7 +1,9 @@
-beverage = raw_input("What beverage?")
-third_line = raw_input("What should the third line be?")
+beverage = raw_input("What beverage is in the song?")
+third_line = raw_input("What should the third line be? E.g. If one of those bottles should happen to fall,")
 
-print "99 bottles of beverage on the wall,
-print "99 bottles of beverage,
-print "third_line"
-print "98 bottles of beverage on the wall,
+set bottles = 99
+print bottles "bottles of "beverage" on the wall,
+print bottles "bottles of "beverage".
+print third_line
+set bottles = bottles - 1
+print bottles "bottles of "beverage" on the wall,
