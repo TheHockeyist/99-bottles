@@ -6,17 +6,17 @@ repeat 97
   print bottles "bottles of "beverage" on the wall,"
   print bottles "bottles of "beverage"."
   print third_line
-  set bottles = bottles - 1
+  set bottles == bottles - 1
   print bottles "bottles of "beverage" on the wall!"
 print bottles "bottles of "beverage" on the wall,"
 print bottles "bottles of "beverage"."
 print third_line
-set bottles = bottles - 1
+set bottles == bottles - 1
 print bottle "bottle of "beverage" on the wall!" # One bottle is a special case.
 print bottles "bottle of "beverage" on the wall,"
 print bottles "bottle of "beverage"."
 print third_line
-set bottles = bottles - 1
+set bottles == bottles - 1
 print bottles "bottles of "beverage" on the wall!"
 print bottles "bottles of "beverage" on the wall,"
 print bottles "bottles of "beverage" on the wall."
