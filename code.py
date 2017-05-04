@@ -17,9 +17,9 @@ print "%d bottle of %s on the wall," % (bottles, beverage)
 print "%d bottle of %s." % (bottles, beverage)
 print third_line
 bottles = bottles - 1
-print "%d bottles of %s on the wall!" % (bottles, beverage
+print "%d bottles of %s on the wall!" % (bottles, beverage)
 print "%d bottles of %s on the wall," % (bottles, beverage)
 print "%d bottles of %s." % (bottles, beverage)
 print "Go to the store and buy some more,"
 bottles = 99
-print "%d bottles of %s on the wall!" % (bottles, beverage
+print "%d bottles of %s on the wall!" % (bottles, beverage)
