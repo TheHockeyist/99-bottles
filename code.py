@@ -1,6 +1,5 @@
 beverage = raw_input("What beverage is in the song?")
 third_line = raw_input("What should the third line be? E.g. If one of those bottles should happen to fall,")
-
 bottles = 99
 while (bottles > 2):
   print "%d bottles of %s on the wall," % (bottles, beverage)
